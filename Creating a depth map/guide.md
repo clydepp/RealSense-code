@@ -1,5 +1,3 @@
-Creation of a depth map using the RealSense D435 requires multiple steps
-
 ## Prerequisites
 - Must have C++ and Python installed
 - Must run the system on Ubuntu 22 (version to be confirmed)
